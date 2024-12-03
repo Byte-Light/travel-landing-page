@@ -37,7 +37,7 @@ const Footer = () => {
       <div className='right lg:w-2/3 flex xs:flex-col md:flex-row xs:gap-10 md:gap-0 md:justify-between'>
         <FooterCard title='Company' link1='About' link2='Career' link3='Mobile' />
         <FooterCard title='Contact' link1='Why Travlog?' link2='Partner with us' link3='FAQ’s' link4='Blog' />
-        <FooterCard title='Meet Us' link1='+00 92 1234 56789' link2='info@travlog.com' link3='205. R Street, New York BD23200' />
+        <FooterCard title='Meet Us' link1='+00 92 1234 56789' link2='bytelight24@gmail.com' link3='205. R Street, Virginia BD23200' />
       </div>
     </footer>
   )
